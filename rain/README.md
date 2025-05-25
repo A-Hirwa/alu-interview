@@ -1,0 +1,1 @@
+Calculate the amount of rain that will be trapped after it rains.
